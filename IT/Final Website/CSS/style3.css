@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://digitallovechild.files.wordpress.com/2013/12/dota-2-logo.jpg);;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    width: 1140px;
+    font-family: radiance,Georgia,bitstream charter,serif;   
+}
+
+.gallery{
+    float: none;
+    color:red;
+    display: inline-block;
+    text-align: center;
+}
+
+.foot{
+    padding-top: 5px ;
+    color:white;
+}
+
+.creator{
+    float:right;
+}
+
+.foot_contact{
+    float: left;
+}

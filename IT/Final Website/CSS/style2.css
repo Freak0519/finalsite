@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: radiance,Georgia,bitstream charter,serif;
+    background-image: url(https://cdn.windowsreport.com/wp-content/uploads/2020/05/Dota-2-packet-loss.jpg);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    width: 1140px;
+
+}
+
+.contact{
+    color:blue;
+    margin-left: 30px;
+}
+
+.form-group{
+    color:orange;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.btn{
+    margin-left: 30px;
+}
+

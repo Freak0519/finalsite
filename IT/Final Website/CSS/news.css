@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1581406684);
+    background-size: 1140px;
+    background-repeat: no-repeat;
+    width: 1140px;
+}
+.update{
+    color:white;
+}

@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    width: 1140px;
+}
+#Container_01{
+background-image: url(https://cdn.cloudflare.steamstatic.com/apps/dota2/images/blog/play/bg_03.jpg);
+    background-color: #141415;
+    padding: 30px 50px 50px;
+   
+}
+div.Container {
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    overflow: hidden;
+}
+#DotaLogo{
+    margin-left: 150px ;
+}
+.Inner{
+    margin-left: 280px;
+}
+.play{
+    margin-left: 280px;
+}
+#Container_02{
+    background-image: url(https://cdn.cloudflare.steamstatic.com/apps/dota2/images/blog/play/bg_04.jpg);
+    background-size: auto 100%;
+    background-position: left bottom;
+    background-color: #8d9296;
+}
+.color{
+    color: orange;
+}
